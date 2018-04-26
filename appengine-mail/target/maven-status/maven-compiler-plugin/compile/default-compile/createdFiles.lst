@@ -1,0 +1,6 @@
+com\example\appengine\mail\HandleDiscussionEmail.class
+com\example\appengine\mail\BounceHandlerServlet.class
+com\example\appengine\mail\MailHandlerBase.class
+com\example\appengine\mail\MailHandlerServlet.class
+com\example\appengine\mail\MailServlet.class
+com\example\appengine\mail\ApproveServlet.class
